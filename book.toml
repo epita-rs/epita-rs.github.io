@@ -1,0 +1,6 @@
+[book]
+authors = ["epi.rs"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "epi.rs"
